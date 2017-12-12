@@ -12,8 +12,8 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Yeunho Jang # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: Embedded Programmer(maybe) # add description
-twitter: www.twitter.com/real_hopper # add your Twitter handle
-facebook: www.facebook.com/realhopper # add your Facebook handle
+twitter: real_hopper # add your Twitter handle
+facebook: realhopper # add your Facebook handle
 github: realhopper # add your Github handle
 linkedin: # add your Linkedin handle
 email: yeunho79@gmail.com # add your Email address
